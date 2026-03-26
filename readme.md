@@ -16,3 +16,6 @@ cd 00-git-local
 '''bash
 touch readme.md
 '''
+
+
+![image](/img/git.png)
