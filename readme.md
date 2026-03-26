@@ -18,4 +18,4 @@ touch readme.md
 '''
 
 
-![image](/img/git.png)
+![image](img/git.png)
